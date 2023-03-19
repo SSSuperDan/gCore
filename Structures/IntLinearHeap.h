@@ -2,6 +2,17 @@
 // Created by ldd on 2021/9/24.
 //
 
+/*
+ * The linear heap data structure is proposed by Chang et al. in:
+ *
+ * " Lijun Chang and Lu Qin. Cohesive Subgraph Computation over
+ * Large Sparse Graphs. Springer Series in the Data Sciences, 2018 "
+ *
+ * Below is the array-based implementation, referencing the source code in
+ * https://github.com/LijunChang/Cohesive_subgraph_book
+ *
+ */
+
 #ifndef CSM4GMG_INTLINEARHEAP_H
 #define CSM4GMG_INTLINEARHEAP_H
 
