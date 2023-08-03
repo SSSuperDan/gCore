@@ -30,7 +30,7 @@ add_executable(gCore main.cpp Graphs/Graph.cpp Graphs/Graph.h Header.h
         Utils/CollectionUtils.h Core/KPTree.h Core/RCD.cpp Core/RCD.h Utils/StringUtils.h
         Core/PTree.cpp Core/Frac2IntPri.cpp Core/Frac2IntPri.h Core/KPTree.cpp
         Core/KPTreeBuilder.cpp Core/KPTreeBuilder.h Utils/FileUtils.h Utils/MemoryUtils.h
-        Core/ExtendedDCC.cpp Core/ExtendedDCC.h KPCEffTest.cpp KPCEffTest.h memtrack/memtrack.cpp memtrack/memtrack.h
+        Core/ExtendedDCC.cpp Core/ExtendedDCC.h KPCEffTest.cpp KPCEffTest.h #memtrack/memtrack.cpp memtrack/memtrack.h
         Structures/DataBuf.h Core/CoreIndex.h KPCEvalTest.h KPCEvalTest.cpp KPCCaseStudy.h CmdParser.hpp Params.h
         KPTreeUtils.cpp KPTreeUtils.h KPVecGenerator.h KPVecGenerator.cpp KPCCaseStudy.cpp
         )
